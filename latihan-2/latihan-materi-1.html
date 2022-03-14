@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Demo Frontend</title>
+        <style>
+            .container {
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .content {
+                height: 40px;
+                width: 100%;
+            }
+            .red {
+                background-color: red;
+            }
+            .green {
+                background-color: green;
+            }
+
+            @media screen and (min-width: 500px) {
+                .content {
+                    width: 50%;
+                }
+            }
+        </style>
+        <script>
+            function showAlert() {
+                alert('Halo, Teman');
+            }
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="content red">
+                <button onclick="showAlert()">Tampilkan alert</button>
+            </div>
+            <div class="content green"></div>
+        </div>
+    </body>
+</html>
