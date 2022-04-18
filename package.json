@@ -1,0 +1,25 @@
+{
+  "name": "10_frontend-fundamental",
+  "version": "1.0.0",
+  "description": "coba demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anindyadeffa/10_frontend-fundamental.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anindyadeffa/10_frontend-fundamental/issues"
+  },
+  "homepage": "https://github.com/anindyadeffa/10_frontend-fundamental#readme",
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "vuetify": "^2.6.4"
+  }
+}

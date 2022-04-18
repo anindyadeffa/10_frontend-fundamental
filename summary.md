@@ -60,8 +60,8 @@ Membuat halaman HTML dengan CSS dan media query yang telah ditentukan.
 
 Screenshot hasil :
 
-![mobile-responsice](pratikum/mobile-responsive.png)
+![mobile-responsice](screenshots/mobile-responsive.png)
 
-![tablet-responsive](pratikum/tablet-responsive.png)
+![tablet-responsive](screenshots/tablet-responsive.png)
 
-![web-responsive](pratikum/web-responsive.png)
+![web-responsive](screenshots/web-responsive.png)
